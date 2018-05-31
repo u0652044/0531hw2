@@ -1,0 +1,1 @@
+(a constant pointer to non-constant data)¤£¯à°õ¦æ
